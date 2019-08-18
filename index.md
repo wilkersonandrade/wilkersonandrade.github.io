@@ -11,4 +11,4 @@ Hi, welcome to my homepage. My name is Wilkerson Andrade. I received the Bachelo
 5. Testing of Mobile Phone Applications
 6. Testing of Real-Time Systems
 7. Computational Thinking
-8. Educational Robotic
+8. Educational Robotics
