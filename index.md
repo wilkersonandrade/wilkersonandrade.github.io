@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Prof. Wilkerson Andrade
 
-You can use the [editor on GitHub](https://github.com/wilkersonandrade/wilkersonandrade.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, welcome to my homepage. My name is Wilkerson Andrade. I received the Bachelor’s, Master’s, and Ph.D. Degree in Computer Science from the Federal University of Campina Grande in 2005, 2007, and 2011, respectively. I worked at both Paraíba State University (UEPB) and Federal University of Paraíba (UFPB). Since 2010, I am a professor of the [Systems and Computing Department (DSC)](http://www.computacao.ufcg.edu.br) at the [Federal University of Campina Grande (UFCG)](http://www.ufcg.edu.br), Paraíba, Brazil. I am currently a researcher at [Software Practices Laboratory (SPLab)](http://www.splab.ufcg.edu.br).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Interests
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wilkersonandrade/wilkersonandrade.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Software Engineering
+2. Model-Based Testing
+3. Software Testing Automation
+4. Formal Testing
+5. Testing of Mobile Phone Applications
+6. Testing of Real-Time Systems
+7. Computational Thinking
+8. Educational Robotic
