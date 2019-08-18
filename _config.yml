@@ -1,2 +1,8 @@
+# Theme of website
 theme: jekyll-theme-minimal
-title: Prof. Wilkerson Andrade
+
+# Name of website
+#title: Prof. Wilkerson Andrade
+
+# Image logo
+title-img: "/img/wilkerson.jpg"
